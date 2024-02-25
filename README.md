@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @RyanAA95
-- 👀 I’m interested in Formula 1, Programming, and Mathematics in general.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on a Formula 1 Roblox Game.
+- 👋 Hi, I’m @Simply-Ryan
+- 👀 I’m a Chess, Programming & Formula 1 Enthusiast.
+- 🌱 I’m currently taking CS50x.
